@@ -1,0 +1,46 @@
+[
+  {
+    "skill": "3Ds Max",
+    "proficiency": "Beginner"
+  },
+  {
+    "skill": "Adobe Illustrator",
+    "proficiency": "Intermediate"
+  },
+  {
+    "skill": "Adobe Photoshop",
+    "proficiency": "Intermediate"
+  },
+  {
+    "skill": "Adobe Premiere Pro",
+    "proficiency": "Beginner"
+  },
+  {
+    "skill": "Adobe After Effects",
+    "proficiency": "Beginner"
+  },
+  {
+    "skill": "Autodesk AutoCAD",
+    "proficiency": "Intermediate"
+  },
+  {
+    "skill": "Autodesk AutoCAD Plant 3D",
+    "proficiency": "Intermediate"
+  },
+  {
+    "skill": "Autodesk SketchBook",
+    "proficiency": "Intermediate"
+  },
+  {
+    "skill": "Blender",
+    "proficiency": "Beginner"
+  },
+  {
+    "skill": "CorelDRAW",
+    "proficiency": "Intermediate"
+  },
+  {
+    "skill": "SketchUp",
+    "proficiency": "Intermediate"
+  }
+]
